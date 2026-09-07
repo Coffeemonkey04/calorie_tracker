@@ -55,3 +55,14 @@
 - `GET /api/dishes/{id}` — блюдо с рассчитанным КБЖУ
 - `POST /api/dishes` — создать блюдо
 - `POST /api/dishes/{dishId}/products/{productId}?grams=100` — добавить продукт в блюдо
+
+## Структура базы данных
+products (id, name, calories, proteins, fats, carbohydrates, photoUrl)
+    ↓
+dish_products (id, dish_id, product_id, grams)
+    ↓
+dishes (id, name, recipe, photoUrl, totalCalories, totalProteins, totalFats, totalCarbohydrates)
+
+## Автор
+**Макарова Анастасия**
+Java Developer | [GitHub](https://github.com/Coffeemonkey04?spm=a2ty_o01.29997173.0.0.13d355fbWoehwt) | [Telegram](https://t.me/coffeemonkey04?spm=a2ty_o01.29997173.0.0.13d355fbWoehwt)
