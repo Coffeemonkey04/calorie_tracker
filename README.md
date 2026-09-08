@@ -68,4 +68,4 @@
 ## Автор
 **Макарова Анастасия**
 
-Java Developer | [GitHub](https://github.com/Coffeemonkey04?spm=a2ty_o01.29997173.0.0.13d355fbWoehwt) | [Telegram](https://t.me/coffeemonkey04?spm=a2ty_o01.29997173.0.0.13d355fbWoehwt)
+Java Developer | [GitHub](https://github.com/Coffeemonkey04) | [Telegram](https://t.me/coffeemonkey04)
